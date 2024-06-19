@@ -6,7 +6,7 @@ export default async () => {
     return (
         <>
             <h3 className={"text-primary"}>Come Race With Us</h3>
-            <Link href={""} className={"bg-[#5865F2] relative p-3 rounded-full"}>
+            <Link href={"https://discord.gg/T9abUJR3"} className={"bg-[#5865F2] relative p-3 rounded-full"}>
                 <div className="relative w-full h-full">
                     <Image src={discord.src} alt="" height={28} width={150}/>
                 </div>
